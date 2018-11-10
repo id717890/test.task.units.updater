@@ -1,0 +1,30 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/**/bin/Debug/**
+/**/obj/**
+/**/obj/Debug/**
+/app_for_xml/Logs
+**.suo
+**.user
+/**/bin
+/.vs
+.vs/**
+packages
+Dist
+task1
+task1.rar
+<<<<<<< HEAD
+packages/**
+=======
+packages/**
+sources/mfc.webclient/app/*.js
+sources/mfc.webclient/app/**/*.js
+sources/mfc.webclient/app/*.js.map
+sources/mfc.webclient/app/**/*.js.map
+sources/mfc.webclient/node_modules/**
+sources/mfc.webclient/node_modules
+sources/mfc.webclient/typings/**
+sources/mfc.webclient/typings
+>>>>>>> 0c4160c747adcb6d89abbef5f911b5e1cb91f46c
